@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me agentseed#6969 on discord
+- 📫 How to reach me admin@agentseed.org
 
 <!---
 agent-seed/agent-seed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
