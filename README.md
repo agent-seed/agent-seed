@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @agent-seed
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me admin@agentseed.org
+- 👋 Hi, I’m Agentseed
+- 👀 I’m interested in leaning how to center a div
+- 🌱 I’m currently learning how to center a div
+- 💞️ I’m looking to collaborate on centering divs
+- 📫 You can reach me at admin@agentseed.org
 
 <!---
 agent-seed/agent-seed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
