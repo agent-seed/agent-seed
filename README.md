@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/agent-seed?cardType=github&theme=radical)]
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/agent-seed?cardType=github&theme=radical)
 <!---Hello, I'm Agentseed. I'm a selftaught frontend dev. I make websites and stuff.--->
 
 <!---
